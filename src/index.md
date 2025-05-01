@@ -10,3 +10,5 @@ title: 'Our Eleventy page'
 
 In GitHub Desktop, you'll want to be sure you're in your repository, which you can clone. 
 Then "Open the repository in your local external editor" =VSCodium
+
+Testing Emoji :computer:
